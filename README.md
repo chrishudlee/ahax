@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Ahax Project!
 
-You can use the [editor on GitHub](https://github.com/TarunApp/arcadio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is a place for the development team to host our development updates weekly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If your wanting to know more, check out your [GitHub](https://github.com/TarunApp/ahax).
 
 ### Markdown
 
